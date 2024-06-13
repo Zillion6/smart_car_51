@@ -1,0 +1,1 @@
+A smart car based on STC89C52RC, including avoiding, tracking, following function.
